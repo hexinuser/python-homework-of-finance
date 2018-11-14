@@ -1,0 +1,10 @@
+1. mystery(5,6)
+    mystery(4,4)
+    mystery(3,2)
+    mystery(2,0)
+
+2. 14
+
+3.  5
+
+4.  mystery(5,1)
